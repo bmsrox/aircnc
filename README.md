@@ -20,4 +20,8 @@ Enter each directory and run:
 
 Enter each directory and run:
 
-    yarn start
+    yarn 
+    
+### Heroku
+
+    https://onmistack-aircnc-frontend.herokuapp.com
